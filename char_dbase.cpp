@@ -25,8 +25,8 @@ int main () {
 	character.health = 100;
 	character.dex = 19;
 	character.age = 37;
-	character.name = Lothar;
-	character.race = Human;
+	character.name = "Lothar";
+	character.race = "Human";
 
 
 	cout << char_ptr -> str << "\n\n";
