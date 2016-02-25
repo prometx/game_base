@@ -32,7 +32,7 @@ int main () {
 	cout << "\n\n";
 	cout << "The Strength of your character is currently: " << char_ptr -> str << "\n\n";
 	cout << "The Health of your character is currently: "<< char_ptr-> health << "\n\n";
-	cout << "The Strength of your character is currently: "<< char_ptr-> dex << "\n\n";
+	cout << "The Dexterity of your character is currently: "<< char_ptr-> dex << "\n\n";
 	cout << "The Age of your character is currently: "<< char_ptr-> age << "\n\n";
 	cout << "The Name of your character is currently: "<< char_ptr-> name << " ,very mighty-sounding indeed..." << "\n\n";
 	cout << "The Race of your character is currently: "<< char_ptr-> race << "\n\n";
